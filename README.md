@@ -28,8 +28,8 @@ Step 8: Stop the program.
 ```
 /*
 Program to implement the multivariate linear regression model for predicting the price of the house and number of occupants in the house with SGD regressor.
-Developed by: RIYA P L
-RegisterNumber: 212223240141
+Developed by: Yadhav G P
+RegisterNumber: 212223230247
 */
 ```
 ```
